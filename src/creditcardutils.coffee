@@ -65,6 +65,14 @@
       luhn: true
     }
     {
+      type:'verve'
+      pattern:/^(506099|51061[0-9][0-9]|521090|528649|528668|551609)/
+      format: defaultFormat
+      length:[19]
+      cvcLength:[3]
+      luhn:true
+    }
+    {
       type: 'mastercard'
       pattern: /^(5[1-5]|2[2-7])/
       format: defaultFormat
