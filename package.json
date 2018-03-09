@@ -1,6 +1,6 @@
 {
   "name": "creditcardutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A general purpose javascript library for credit card number validation and formatting. Based on https://github.com/jondavidjohn/payform and https://github.com/stripe/jquery.payment. Usable in React Native and Node.",
   "keywords": [
     "payment",
@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/faaez/creditcardutils.git"
+    "url": "https://github.com/adeb6600/creditcardutils.git"
   },
   "main": "dist/creditcardutils.js",
   "scripts": {
