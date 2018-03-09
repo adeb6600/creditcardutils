@@ -61,7 +61,7 @@
         luhn: true
       }, {
         type: 'verve',
-        pattern: /^(506099|51061[0-9][0-9]|521090|528649|528668|551609)/,
+        pattern: /^(506099|5061[0-9][0-9]|521090|528649|528668|551609)/,
         format: defaultFormat,
         length: [19],
         cvcLength: [3],
